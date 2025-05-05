@@ -1,0 +1,33 @@
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\LingQ Picture Flashcards.exe.config
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\LingQ Picture Flashcards.exe
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\LingQ Picture Flashcards.pdb
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\Geckofx-Core.dll
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\Geckofx-Winforms.dll
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\MetroFramework.Design.dll
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\MetroFramework.dll
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\MetroFramework.Fonts.dll
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\NAudio.dll
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\Microsoft.DirectX.dll
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\Geckofx-Core.pdb
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\Geckofx-Winforms.pdb
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\NAudio.xml
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\bin\Debug\Microsoft.DirectX.xml
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\obj\Debug\AI Language Flashcards.csproj.AssemblyReference.cache
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\obj\Debug\AI Language Flashcards.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\obj\Debug\Interop.WMPLib.dll
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\obj\Debug\AI Language Flashcards.csproj.ResolveComReference.cache
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\obj\Debug\LingQ_Picture_Flashcards.Form1.resources
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\obj\Debug\LingQ_Picture_Flashcards.MultiColumnComboBox.resources
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\obj\Debug\LingQ_Picture_Flashcards.MultiColumnComboPopup.resources
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\obj\Debug\LingQ_Picture_Flashcards.PanelSetup.resources
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\obj\Debug\LingQ_Picture_Flashcards.Properties.Resources.resources
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\obj\Debug\AI Language Flashcards.csproj.GenerateResource.cache
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\obj\Debug\AI Language Flashcards.csproj.CoreCompileInputs.cache
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\obj\Debug\AI Language Flashcards.csproj.CopyComplete
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\obj\Debug\LingQ Picture Flashcards.exe
+C:\Projects\Language Flashcards AI\LingQ Picture Flashcards\obj\Debug\LingQ Picture Flashcards.pdb
